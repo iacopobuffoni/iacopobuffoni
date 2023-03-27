@@ -85,11 +85,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
+ 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=iacopobuffoni&&style=flat-square" align="center" />
 </div>  

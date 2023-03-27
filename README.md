@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iacopobuffoni&show_icons=true&locale=en" alt="iacopobuffoni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iacopobuffoni&" alt="iacopobuffoni" /></p>
+[![](https://visitcount.itsvg.in/api?id=iacopobuffoni&icon=8&color=11)](https://visitcount.itsvg.in)

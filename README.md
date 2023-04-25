@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Website Portfolio 3D**
 
-- 🌱 I’m currently learning **Three.js 💻**
+- 🌱 I’m currently learning **React 💻**
 
 - 💬 Ask me about **anything you want ! ⭐**
 
